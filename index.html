@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RockType</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Main Content -->
+    <div id="main-content">
+        <div id="splash-screen">
+            <h1>RockType</h1>
+            <p>Made by Ivan Christi</p>
+            <button id="begin-btn">Begin</button>
+        </div>
+
+        <div class="container" style="display: none;">
+            <button id="generate-btn">Randomize</button>
+            <div class="typing-area">
+                <p id="reference-text"></p>
+                <textarea id="typing-text" placeholder="Start typing here..."></textarea>
+            </div>
+            <div class="stats">
+                <p id="wpm">WPM: 0</p>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

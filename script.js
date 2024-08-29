@@ -3,7 +3,8 @@ const sentences = [
     "The chemical formula for water is H2O.",
     "Electromagnetic waves travel at the speed of light in a vacuum.",
     "The acceleration due to gravity on Earth is approximately 9.8 m/s².",
-    "Photosynthesis is the process by which green plants make their food.",
+    "Newton's first law of motion states that every body continues to be in its state of rest or of uniform motion in a straight line unless an external force acts on it",
+    "Newton's second law of motion states that the rate of change of momentum of a body is directly proportional to the applied force and takes places in the direction i which the force acts.",
     // Add more sentences as needed
 ];
 
